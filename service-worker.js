@@ -1,1 +1,1 @@
-// empty sw for debug
+// DEBUG: SW not registered in index.html to avoid cache issues.
