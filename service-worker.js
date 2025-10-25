@@ -1,1 +1,1 @@
-// DEBUG build: SW disabled by index.html (not registered)
+// empty sw for debug
